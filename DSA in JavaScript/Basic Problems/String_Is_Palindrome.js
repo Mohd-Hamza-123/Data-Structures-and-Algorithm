@@ -1,4 +1,4 @@
-let str = "LoL"
+let str = "Hello"
 
 let palindromeString = ""
 
